@@ -1,2 +1,10 @@
-# SiV1
-Image finder, it's quite simple and quick. No instructions because there's a special file called Special_file.sh. Just run it and everything will download automatically. I spent a day and a half working on this project, almost without sleep. I'd be very grateful if you'd give it a star rating. I love you all, good luck to everyone.
+# PintSSv1tt - Photo Finder
+
+A terminal-based tool to search and download the top 5 images from the web, automatically converting them to PNG with unique naming.
+
+## How to Run
+
+1. Run the setup script:
+   bash Special_file.sh
+2. Activate environment and run:
+   python3 img_ss.py
