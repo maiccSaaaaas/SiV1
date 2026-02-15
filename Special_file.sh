@@ -32,13 +32,9 @@ A terminal-based tool to search and download the top 5 images from the web, auto
 ## How to Run
 
 1. Run the setup script:
-   \`\`\`bash
-   bash Special_file.sh
-   \`\`\`
+   ./Special_file.sh
 2. Activate environment and run:
-   \`\`\`bash
    python3 img_ss.py
-   \`\`\`
 EOF
 
 # 5. Set up Virtual Environment
