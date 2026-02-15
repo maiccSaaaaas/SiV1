@@ -1,5 +1,3 @@
-#!/bin/bash
-
 # PintSSv1tt - Photo Finder Setup Script
 # This script will set up everything you need to run the Photo Finder.
 
@@ -25,7 +23,7 @@ else
     exit 1
 fi
 
-# 4. Create a README.md
+# 4. Create a README.md (read if need help :))
 cat << 'EOF' > README.md
 # PintSSv1tt - Photo Finder
 
